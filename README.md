@@ -1,2 +1,3 @@
-# Esse é um projeto de sistema de xadrez, desenvolvido junto ao instrutor do curso de java da Udemy, Nelio Alves. 
-'Esse projeto é para fins de aprendizado, entender conceitos de orientação a objetos.'
+# Chess system in java
+'This is a chess system project, developed with Udemy's java course instructor, Nelio Alves. '
+'This project is for learning purposes, to understand concepts about object orientation.'
